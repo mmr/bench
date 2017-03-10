@@ -28,7 +28,6 @@ int t1(long n) {
 }
 
 int t2(long n) {
-  //return floor(log10(n)) + 1;
   return log10(n) + 1;
 }
 
